@@ -8,4 +8,5 @@ SevenBotのissue管理用。
 3. テンプレートを選ぶ![（`Get started`を押す）](https://user-images.githubusercontent.com/59691627/114272571-b1be4f80-9a51-11eb-871d-050a428104b5.png)
 
 4. 色々入力する
-5. 送信する![（`Submit new issue`をクリック）](https://user-images.githubusercontent.com/59691627/114272522-7e7bc080-9a51-11eb-904b-e7d80b3a9711.png)
+5. 送信する![（`Submit new issue`をクリック）](https://user-images.githubusercontent.com/59691627/114272768-69ebf800-9a52-11eb-82a7-f08dbd780dd8.png)
+
