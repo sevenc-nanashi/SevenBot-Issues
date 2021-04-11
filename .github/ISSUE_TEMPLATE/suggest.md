@@ -2,7 +2,7 @@
 name: 機能提案
 about: 新機能を提案します。
 title: ''
-labels: ''
+labels: アプデ
 assignees: ''
 
 ---
