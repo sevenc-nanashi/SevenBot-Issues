@@ -1,3 +1,5 @@
+# [sevenc-nanashi/SevenBot](https://github.com/sevenc-nanashi/SevenBot)へ移転しました。
+
 # SevenBot-Issues
 SevenBotのissue管理用。
 
